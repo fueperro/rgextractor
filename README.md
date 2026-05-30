@@ -19,7 +19,7 @@ The tool automates the building process through a streamlined two-step workflow:
 
 To use this tool you will need both components:
 ### 1. Roblox Studio Plugin
- 👉 [**RGExtractor**](https://create.roblox.com/store/asset/136778510285063)
+ 👉 [**RGExtractor**](https://create.roblox.com/store/asset/136778510285063/RGExtractor-MV)
 
 ### 2. Python Macro
  👉 [**Download the latest version of the macro (.zip)**](https://github.com/fueperro/rgextractor/releases/download/v0.1.3/macro-v0.1.3.zip)
